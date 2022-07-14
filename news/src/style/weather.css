@@ -1,0 +1,17 @@
+.weatherstyle{
+    margin-left: 73%;
+    /* margin-top:5% ; */ 
+    margin-bottom: 3%;
+}
+.weatherimg {
+	width: calc(120px - 15px);
+	display: flex;
+	background-size: cover;
+	border-radius: 10px;
+	overflow: hidden;
+    background-image: url('https://images.pexels.com/photos/479333/pexels-photo-479333.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+    padding: 22%;
+}
+.news{
+    background-color: #5495f7;
+}
